@@ -81,7 +81,7 @@ Maintenant, lancez la commande suivante pour afficher le menu de configuration:
 ````
 
 **Question 7**: En naviguant dans le menu, repérez:
-- l'architecture matérielle cible
+- l'architecture matérielle ciblecd
 - le CPU ciblé
 - l'ABI (en rappellant la signification de celle choisie)
 - la librairie C utilisée

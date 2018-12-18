@@ -1,4 +1,4 @@
-# Partie 3: Multiplexage, threads, mutex et IPC
+s# Partie 3: Multiplexage, threads, mutex et IPC
 
 Pour cette partie, compilez le simulateur en mode sans-échec:
 
