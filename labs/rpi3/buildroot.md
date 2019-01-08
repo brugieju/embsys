@@ -76,13 +76,11 @@ Maintenant, lancez la commande suivante pour afficher le menu de configuration:
 # make menuconfig
 ````
 
-<<<<<<< HEAD
 **Question 7**: En naviguant dans le menu, repérez:
 - l'architecture matérielle ciblecd
-=======
+
 **Question 5**: En naviguant dans le menu, repérez:
 - l'architecture matérielle cible
->>>>>>> upstream/master
 - le CPU ciblé
 - l'ABI (en rappellant la signification de celle choisie)
 - la librairie C utilisée
